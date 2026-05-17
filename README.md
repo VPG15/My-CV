@@ -1,6 +1,7 @@
-Welcome to my repository! Here I present my skills in the field of data analysis
+# Welcome to My Interactive Resume Dashboard
 
-Here i created an interactive tool in Tableau that visualizes my experience, from my bachelor's degree in statistics to my current career goals.
+Welcome to my repository! This project showcases an interactive resume dashboard built in Tableau, designed to present my academic background, achievements, technical skills, and career aspirations in a clear and engaging format.
+This dashboard serves as an interactive alternative to a traditional CV, offering a dynamic overview of my qualifications and development.
 
 **[👉 View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/vlad.pirvan/viz/MyCV_17790308399320/Dashboard1?publish=yes)**
 
