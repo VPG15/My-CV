@@ -18,8 +18,8 @@ In carrying out this project, I implemented solutions for the clearest possible 
 * **Calculated Fields**: Created a calculated field to synchronize the icons with specified links. Developed a calculated field using the DATEDIFF function to determine the duration of each activity in days, enabling the precise scaling of Gantt bars along the timeline.
 
 Repository Content
-* **VladPIRVAN_CV.twbx**: The Tableau source file (Packaged Workbook) containing both the data and the visualization.
-* **VladPIRVAN_CV_dashboard.png**: Picture of the dashboard.
+* **My-CV.twbx**: The Tableau source file (Packaged Workbook) containing both the data and the visualization.
+* **My-CV_Dasboard.png**: Picture of the dashboard.
 * **my_data.xlsx**: The structured Excel dataset that I used as a base.
 
  Contact & Links
