@@ -6,7 +6,7 @@ Here i created an interactive tool in Tableau that visualizes my experience, fro
 
 **[👉 View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/vlad.pirvan/viz/MyCV_17790308399320/Dashboard1?publish=yes)**
 
-![Dashboard Preview]()
+![Dashboard Preview](My-CV_Dasboard.png)
 
 ---
 
