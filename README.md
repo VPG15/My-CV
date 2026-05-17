@@ -1,5 +1,3 @@
-Interactive Career Portfolio | Vlad Pîrvan
-
 Welcome to my repository! Here I present my skills in the field of data analysis
 
 Here i created an interactive tool in Tableau that visualizes my experience, from my bachelor's degree in statistics to my current career goals.
