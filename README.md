@@ -25,3 +25,6 @@ Repository Content
 * **Tableau Public**: [My Profile](https://public.tableau.com/app/profile/vlad.pirvan/vizzes)
 * **LinkedIn**: [Connect with me](https://www.linkedin.com/in/vlad-p%C3%AErvan-72b565244/)
 * **Email**: [pirvanvlad0@gmail.com]
+
+
+Thank you for visiting my repository!
